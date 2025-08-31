@@ -21,9 +21,7 @@
     - 课程链接：[https://ocw.aca.ntu.edu.tw/courses/104S115](https://ocw.aca.ntu.edu.tw/courses/104S115)
 
 - **《分析》（复变、实变、测度论、泛函）**
-  
     - 作者：齐震宇（台大数学系助理教授）
-    
     - 课程链接：[https://ocw.aca.ntu.edu.tw/courses/105S107](https://ocw.aca.ntu.edu.tw/courses/105S107)
     
 - **《MIT18.01 单变量微积分》**
